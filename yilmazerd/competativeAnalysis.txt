@@ -1,0 +1,31 @@
+1.125 Project ProposalErdem YilmazCharles LambertTeam Name: E-C FeedbackCompetitive Analysis
+We’ve looked into what are offered in the industry for the critical parts that we need. 
+
+SMS MANAGEMENT
+
+www.zang.io/
+zang.io is a communication platform that let users send and receive calls even internationally. It also has SMS message functionality and phone nu
+
+http://trumpia.com/
+Focus on Mass SMS (Short Message Service) sending and receiving. Provides an API for more targeting people with potential buy in to products etc.
+
+https://www.twilio.com/
+Global SMS API - with free signup and test capability.
+
+We think this services are quite similar and their pay structure is almost the same. There is absolutely no need to implement an SMS sender or receiver with super low cost offered by these services..
+
+
+Voice to Text Engines
+This is a very competitive area in which biggest names of the industry are competing. IBM, Google, Microsoft have their offerings. We’ve tested them and they are quite similar. For our purposes there is no need to implement a speech to text engine but we envision for companies specialized in types of speech for instance restaurant complaints, as the data will have a previously defined expectation, there can be benefits in training the data.
+
+
+Natural Language Processors
+Similar to voice to text, this is a very competitive area where biggest incumbents have current offerings and are hiring to improve these offerings. IBM Bluemix Alchemy, Cloud Natural Language API, Microsoft Cognitive Services are some of the examples.
+
+
+Our choice:
+We selected IBM Bluemix as the main platform for this project development. We like their financial structure, user pays as he goes and the service is free below some levels. We also like their wide range of offerings and ease of use.
+
+
+
+

@@ -1,0 +1,29 @@
+1.125 Project ProposalErdem YilmazCharles LambertTeam Name: E-C FeedbackStory Board:
+Please also find the power point file at the same name
+
+Currently:
+Customers go to a restaurant and take a seat. We are not interested in how customers find the restaurant, make a reservation or take a seat. This part happens somehow. 
+
+They talk to the servers, order their meal, engage with social activities, eat their meal, pay for it and leave. At the meantime, they might engage with restaurant owner, manager or employees. At some high end restaurants, there can be tablets at some desks but these tablets cost too much for wide coverage. Nothing special here.
+
+If they have a complaint and are not happy with the food, most likely they don’t do anything but keep it to themselves. Most restaurants only barely ask if everything is OK but that’s just a check rather than asking for a real feedback. After finishing their meal, they pay and leave.
+
+
+Here we come. We introduce a new, quick and easy way for customers to provide feedback to restaurants. We ask them to text to a number about how the restaurant did. We immediately analyze the text and further engage with them.
+
+Customer provides his feedback over text, the text is received by an NLP api and analyzed. We send a thank you email and coupon code to customer if the text is longer than 10 words. If the text is short and negative, we ask “could you tell a little more about your experience”
+
+Restaurant owner has access to all the text that have been communicated between the restaurant and the customers. He sees at what phone numbers gave the feedback. He also sees the time of the feedback and have an idea who the customer was and what they ordered. He also has an option to further engage with the customer if he chooses to do.
+
+
+
+
+
+
+
+
+
+
+
+
+

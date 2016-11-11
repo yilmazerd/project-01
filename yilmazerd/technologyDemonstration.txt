@@ -1,0 +1,18 @@
+1.125 Project ProposalErdem YilmazCharles LambertTeam Name: E-C FeedbackTechnology DemonstrationWe’ve already implemented most critical parts of our service and we are confident that we can complete the tasks. 
+
+For sending SMS part, try sending SMS to our allocated phone number:
++1-617-207-6655
+
+Then it will show on our website
+cherryos.mybluemix.net
+
+Our software will also analyze your text and show if the text is positive/neutral/negative
+
+Also for speech to text conversion, try to use our website 
+https://sdmspeechtotext.mybluemix.net/
+
+
+Since we were able to implement all critical parts, we are confident we can move forward with the project and perhaps add new features
+
+
+
